@@ -5,7 +5,7 @@ Background removal is not recommended in the corn class.
 After the model is trained, it is recommended that the images to be predicted be applied to the same function when making predictions.
 
 Required library installations are:
-pip install rembg
-pip install opencv-python
-pip install numpy
-pip install Pillow
+pip install rembg,
+pip install opencv-python,
+pip install numpy,
+pip install Pillow.
